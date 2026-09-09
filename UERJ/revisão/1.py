@@ -33,8 +33,7 @@ while True:
 print(notas)
 
 # b) Mostre a maior nota abaixo de 7.
-
-notas.sort()
+
 mnota = -1
 reprovados = 0
 
