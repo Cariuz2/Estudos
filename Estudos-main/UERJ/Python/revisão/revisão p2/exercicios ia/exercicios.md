@@ -1,4 +1,4 @@
-# Exercícios de Revisão P3
+# Exercícios de Revisão P2
 
 ## 1
 Crie uma função chamada `indices_multiplos` que receba uma lista de números inteiros e um valor inteiro `n` e retorne uma nova lista contendo os índices dos elementos que são múltiplos de `n`.
